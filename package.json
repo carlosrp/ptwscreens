@@ -1,0 +1,28 @@
+{
+  "name": "ptwscreens",
+  "version": "0.1.0",
+  "description": "Permit to Work Screens",
+  "main": "ptwapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrp/ptwscreens.git"
+  },
+  "keywords": [
+    "PTW",
+    "Permit",
+    "Work"
+  ],
+  "bugs": {
+    "url": "https://github.com/carlosrp/ptwscreens/issues"
+  },
+  "homepage": "https://github.com/carlosrp/ptwscreens#readme"
+}
